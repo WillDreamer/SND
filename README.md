@@ -1,4 +1,4 @@
-# Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework (ECCV2020)
+# [Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework (ECCV2020)](https://www.researchgate.net/publication/346554373_Stacking_Networks_Dynamically_for_Image_Restoration_Based_on_the_Plug-and-Play_Framework)
 
 ## Inventory
 
